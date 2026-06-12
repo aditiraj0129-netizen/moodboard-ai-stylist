@@ -1,0 +1,10 @@
+{
+  "name": "MoodBoard - Studio Fashion Stylist",
+  "description": "Enter a custom mood or style concept to generate a detailed outfit, hairstyle suggestions, and makeup routines. Then upload a portrait and see the styled outfit of your choice virtually tried on.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
