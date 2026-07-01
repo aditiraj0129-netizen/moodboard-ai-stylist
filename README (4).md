@@ -1,4 +1,5 @@
 # MoodBoard — AI FASHION  Stylist 
+DEPLOYED ON HUGGING FACE (USE WITH T4 GPU FOR FAST RESPONSE): https://aditiraj0129-moodboard.hf.space
 
 **MoodBoard** is an interactive personal stylist studio that translates your unique moods, feelings, and aesthetic visions into beautifully coordinate fashion lookbooks, hair recommendations, makeup guides, and instant virtual tries-on.
 
